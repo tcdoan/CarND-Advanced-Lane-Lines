@@ -11,3 +11,8 @@
 ####  Create environment 
 - conda env create -f env.yml
 - activate carndp2
+
+#### Remove env 
+- \[source\] deactivate
+-  conda remove --name MyEnvName --all
+
